@@ -25,12 +25,28 @@
   - 编程语言
     - ruby （熟练）
     - javascript  （一般）
-    - java        （一般）
-    - Objective-C （一般）
+    - java - Android       （一般）
+    - Objective-C - iOS（一般）
     - c           （一般）
     - c++         （了解）
     - Erlang      （了解）
 
+  - 操作系统
+    - Linux (熟练）
+    - Mac， Window（熟练）
+
+  - 数据库
+    - MySQL
+
+  - 其他
+    Redis, MongoDB, RabbitMQ
+
 ---
 ## 工作经历
+
+  - GREE|OpenFeint (2011.6 - 现今)
+  - PhotoUSA China (2010.9 - 2011.6)
+  - 北京平步科技   (2009.1 - 2010.9)
+  - 南京sai-v科技      (2008.3 - 2009.1)
+
 ---
