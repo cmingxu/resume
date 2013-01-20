@@ -18,17 +18,24 @@
     <th>邮箱： </th>
     <td>cming.xu@gmail.com</td>
   </tr>
+
+  <tr>
+    <th>学校： </th>
+    <td>大连民族学院 软件工程</td>
+    <th>语言能力： </th>
+    <td>普通话， 英语</td>
+  </tr>
 </table>
 
 ---
 ## 计算机能力
   - 编程语言
-    - ruby （熟练）
-    - javascript  （一般）
-    - java - Android       （一般）
+    - Ruby, RoR（熟练）
+    - Javascript, NodeJS  （一般）
+    - Java - Android       （一般）
     - Objective-C - iOS（一般）
-    - c           （一般）
-    - c++         （了解）
+    - C           （一般）
+    - C++         （了解）
     - Erlang      （了解）
 
   - 操作系统
@@ -47,7 +54,7 @@
   - GREE|OpenFeint (2011.6 - 现今)
     - OpenFeint平台开发和维护(Ruby)。 和其他几位Ruby
       Dev一起帮助OpenFeint平台达到了2.5亿注册用户，动态请求6亿多。
-主要负责新功能开发， bug修复，第三方系统继承和系统健康维护等工作。
+主要负责新功能开发， bug修复，第三方系统集成和系统健康维护等工作。
     - GREE新游戏后端开发(NodeJS)。 游戏后端架构设计和开发， 运维和统计工具开发。
 
   - PhotoUSA China (2010.9 - 2011.6)
