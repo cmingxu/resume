@@ -10,11 +10,11 @@
     <th>学历：</th>
     <td>本科</td>
     <th>工作年限：</th>
-    <td>5</td>
+    <td>7</td>
   </tr>
   <tr>
     <th>联系电话： </th>
-    <td>18610473786</td>
+    <td>13699236168</td>
     <th>邮箱： </th>
     <td>cming.xu@gmail.com</td>
   </tr>
@@ -31,7 +31,9 @@
 ## 计算机能力
   - 编程语言
     - Ruby, RoR（熟练）
-    - Javascript, NodeJS  （一般）
+    - Javascript, HTML, AngularJS  （熟练）
+    - Javascript, NodeJS  （熟练）
+    - Golang  （熟练）
     - Java - Android       （一般）
     - Objective-C - iOS（一般）
     - C           （一般）
@@ -50,25 +52,21 @@
 
 ---
 ## 工作经历
+  - 北京逍遥津科技有限公司 (2014.12 - 2015.9)
+    - 萝卜停车技术合伙人
 
-  - GREE|OpenFeint (2011.6 - 现今)
+  - KABAM (2013.10 - 2014.12)
+    - 亚特兰蒂斯之龙(DOA)项目后端开发工程师，使用Ruby, NodeJS,
+      Golang等技术。
+    - DOA有注册用户3M，每月流水3KW+。
+    - Online Team唯一的后端负责人，负责系统稳定运行，运维和游戏活动。
+
+  - GREE|OpenFeint (2011.6 - 2013.5)
     - OpenFeint平台开发和维护(Ruby)。 和其他几位Ruby
       Dev一起帮助OpenFeint平台达到了2.5亿注册用户，动态请求6亿多。
 主要负责新功能开发， bug修复，第三方系统集成和系统健康维护等工作。
     - GREE新游戏后端开发(NodeJS)。 游戏后端架构设计和开发， 运维和统计工具开发。
 
-  - PhotoUSA China (2010.9 - 2011.6)
-    - 带领团队设计开发PhotoUSA中国的电子商务网站。
-
-  - 北京平步科技   (2009.1 - 2010.9)
+  - 北京平步科技   (2008.7 - 2011.7)
     - 带领团队参与了中央政府采购平台(zycg.cn)的设计开发。此项目在当时一度被认为是国内最大的RoR企业级应用。
 
-  - 南京sai-v科技      (2008.3 - 2009.1)
-    - 公司网站制作
-
-  - 其他
-    - jumaimai.com
-    - 国家网球中心管理系统开发
-    - Android数据采集终端
-
----
