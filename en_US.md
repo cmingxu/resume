@@ -11,7 +11,7 @@
     <th>Academic Degree：</th>
     <td>Bachelor</td>
     <th>Year Of Work：</th>
-    <td>7</td>
+    <td>9</td>
   </tr>
   <tr>
     <th>Mobile： </th>
@@ -21,7 +21,7 @@
   </tr>
 
   <tr>
-    <th>School & Major： </th>
+    <th>College and Major： </th>
     <td>Software Engineering at Dalian</td>
     <th>Lanaguage Ability： </th>
     <td>English, Mandarin</td>
@@ -31,7 +31,7 @@
 ---
 ## Skills
   - Programming Languages
-    - Ruby, RoR（fluent, 7yrs）
+    - Ruby, RoR（fluent, 8yrs）
     - Javascript, AngularJS, HTML, CSS, SASS (fluent)
     - NodeJS, express, jade  （fluent）
     - Golang  （fluent）
@@ -80,3 +80,13 @@
     - Help the team successfully released zycg.cn, which was considered as the
       biggest website built with Ruby On Rails at that time.
 
+---
+## Educations
+
+  - Dalian Nationality University 大连民族大学（2008-2008）
+ 
+---
+## Talks
+  - Mesoscon Asia 2017 speaker (http://sched.co/AZd8)
+  - Speaking at Tech Salon hold by 360-Search(so.cn) (http://www.huodongxing.com/event/8376789432300)
+  - Speaking at Mesos/Swarm/K8S meetup hold by dataman-cloud (http://www.dockerinfo.net/2943.html)
