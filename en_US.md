@@ -84,12 +84,11 @@
 ---
 ## Educations
 
-  - Dalian Nationality University 大连民族大学（2008-2008）
+  - Dalian Nationality University 大连民族大学（2004-2008）
  
 ---
 ## Talks
+
   - Mesoscon Asia 2017 speaker (http://sched.co/AZd8)
-  
-  - Speaking at Tech Salon hold by 360-Search(so.cn) (http://www.huodongxing.com/event/8376789432300)
-  
+  - Speaking at Tech Salon hold by 360-Search(so.cn) (http://www.huodongxing.com/event/8376789432300)
   - Speaking at Mesos/Swarm/K8S meetup hold by dataman-cloud (http://www.dockerinfo.net/2943.html)
